@@ -1,0 +1,12 @@
+apply reset command
+apply git log command
+stash pop apply
+now we use stash command
+confilt made by stash
+now we use stash command
+git add command
+hello world
+second line
+this b text file
+we are tranee
+change the confilt

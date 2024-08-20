@@ -1,0 +1,5 @@
+git add command
+hello 
+this is c text file
+add line in c file
+file cis third file
