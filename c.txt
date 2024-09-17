@@ -1,5 +1,14 @@
-git add command
-hello 
-this is c text file
-add line in c file
-file cis third file
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int n;
+clrscr();
+printf("Enter number for table : ");
+scanf("%d",&n);
+for(int i=1;i<=10;i++)
+{
+printf("%d\n",n*i);
+}
+getch();
+}
